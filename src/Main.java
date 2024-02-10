@@ -20,5 +20,6 @@ public class Main {
         System.out.println();
         System.out.println("36, 1_000_000, 9.99");
         System.out.println(service.calculate(36, 1_000_000, 9.99));
+
     }
 }
